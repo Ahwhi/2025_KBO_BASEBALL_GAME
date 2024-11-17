@@ -38,9 +38,7 @@
 
 
 ## 🔎 게임 미리보기
-![S4](https://github.com/Ahwhi/2025_KBO_BASEBALL_GAME/blob/main/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B71.png)
-![S2](https://github.com/Ahwhi/2025_KBO_BASEBALL_GAME/blob/main/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B72.png)
-![S3](https://github.com/Ahwhi/2025_KBO_BASEBALL_GAME/blob/main/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B73.png)
+
 
 
 ## 📋 플레이 정보
