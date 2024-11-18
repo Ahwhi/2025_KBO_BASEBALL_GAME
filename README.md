@@ -42,10 +42,10 @@
 
 
 ## 🔎 게임 미리보기
-![SCR1](https://github.com/Ahwhi/2025_KBO_BASEBALL_GAME/blob/main/GameSceenshot1.png)
-![SCR2](https://github.com/Ahwhi/2025_KBO_BASEBALL_GAME/blob/main/GameSceenshot2.png)
-![SCR3](https://github.com/Ahwhi/2025_KBO_BASEBALL_GAME/blob/main/GameSceenshot3.png)
-![SCR4](https://github.com/Ahwhi/2025_KBO_BASEBALL_GAME/blob/main/GameSceenshot4.png)
+![SCRS1](https://github.com/Ahwhi/2025_KBO_BASEBALL_GAME/blob/main/ScreenShot1.png)
+![SCRS2](https://github.com/Ahwhi/2025_KBO_BASEBALL_GAME/blob/main/ScreenShot2.png)
+![SCRS3](https://github.com/Ahwhi/2025_KBO_BASEBALL_GAME/blob/main/ScreenShot3.png)
+![SCRS4](https://github.com/Ahwhi/2025_KBO_BASEBALL_GAME/blob/main/ScreenShot4.png)
 
 ## 📋 플레이 정보
 권장 옵션: PC, Windows 10, 11
