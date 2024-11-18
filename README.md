@@ -32,14 +32,15 @@
 
 
 ## 🔎 게임 미리보기
-![SC1](https://github.com/Ahwhi/2025_KBO_BASEBALL_GAME/blob/main/ScreenShot1.png)
-![SC2](https://github.com/Ahwhi/2025_KBO_BASEBALL_GAME/blob/main/ScreenShot2.png)
-![SC3](https://github.com/Ahwhi/2025_KBO_BASEBALL_GAME/blob/main/ScreenShot3.png)
+![SCR1](https://github.com/Ahwhi/2025_KBO_BASEBALL_GAME/blob/main/GameSceenshot1.png)
+![SCR2](https://github.com/Ahwhi/2025_KBO_BASEBALL_GAME/blob/main/GameSceenshot2.png)
+![SCR3](https://github.com/Ahwhi/2025_KBO_BASEBALL_GAME/blob/main/GameSceenshot3.png)
+![SCR4](https://github.com/Ahwhi/2025_KBO_BASEBALL_GAME/blob/main/GameSceenshot4.png)
 
 ## 📋 플레이 정보
-권장 옵션: 윈도우  10 이상 PC
+권장 옵션: PC, Windows 10, 11
 
 ## 🧾 개발 정보
-Visual Studio 2022, 콘솔, C
+Visual Studio 2022, C, Console Only
 
 jwen7@naver.com
